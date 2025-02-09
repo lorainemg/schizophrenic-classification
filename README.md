@@ -4,6 +4,8 @@ This project focuses on the classification of schizophrenic patients using the w
 
 ## Background
 
+Schizophrenia is a psychiatric disorder that affects a large portion of the world’s population. Among its symptoms is the inability to process information, mainly in attention tasks and work memory. That is why evoked potentials related to events are useful tools for supporting the subjective decision-making processes of medical specialists. The objective of this work is to generate a model that allows distinguishing schizophrenic patients from healthy patients using the visual paradigm of the P300 and applying the discrete transform of wavelets as a method of extracting characteristics.
+
 ## Features
 
 - Classification of schizophrenic patients from healthy subjects
